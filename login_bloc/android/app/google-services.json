@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "29349793074",
+    "firebase_url": "https://changeapp-ddc48.firebaseio.com",
+    "project_id": "changeapp-ddc48",
+    "storage_bucket": "changeapp-ddc48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29349793074:android:5d8aab8bedde8abb",
+        "android_client_info": {
+          "package_name": "com.example.loginbloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29349793074-l2ouvd5j1pv6de5i3a16blb2t99hfimh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHaoYWqkRszE9FliQ2MXejnCgc55Dq9IA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
